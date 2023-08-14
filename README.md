@@ -1,1 +1,1 @@
-# superket
+# supermarket
